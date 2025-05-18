@@ -6,7 +6,7 @@ import Footer from './components/Footer'
 import AllRooms from './pages/AllRooms'
 // sssss
 const App = () => {
-
+//  ddd
   //this path in localhost if that /owner present nav disapper because
   //we put terneary opertor in navbar
   const isOwnerPath = useLocation().pathname.includes("owner");
