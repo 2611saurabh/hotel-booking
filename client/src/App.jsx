@@ -4,7 +4,7 @@ import Home from './pages/Home'
 import { Route, useLocation,Routes } from 'react-router-dom'
 import Footer from './components/Footer'
 import AllRooms from './pages/AllRooms'
-
+// sssss
 const App = () => {
 
   //this path in localhost if that /owner present nav disapper because
